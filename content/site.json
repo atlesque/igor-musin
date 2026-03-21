@@ -1,0 +1,2052 @@
+{
+  "title": "Musin Igor Nikolaevich",
+  "portrait": {
+    "src": "/images/originals/DSC04945-2-web.jpg",
+    "alt": "Portrait of Igor Musin"
+  },
+  "locales": {
+    "nl-BE": {
+      "code": "nl-BE",
+      "language": "nl-BE",
+      "label": "Nederlands",
+      "shortLabel": "NL",
+      "basePath": "/",
+      "homeTitle": "Musin Igor Nikolaevich - Schilderijen, Tekeningen en Kunstwerken",
+      "homeDescription": "Biografie en werk van Igor Musin uit Oekraïne, woonachtig in Brugge, België.",
+      "introHtml": "<p>Welkom op de site van Musin Igor Nikolaevich.</p>",
+      "navigation": [
+        {
+          "label": "Biografie",
+          "to": "/biografie"
+        },
+        {
+          "label": "Albums",
+          "children": [
+            {
+              "label": "Album 5",
+              "to": "/album-5"
+            },
+            {
+              "label": "Album 4",
+              "to": "/album-4"
+            },
+            {
+              "label": "Album 3",
+              "to": "/album-3"
+            },
+            {
+              "label": "Album 2",
+              "to": "/album-2"
+            }
+          ]
+        },
+        {
+          "label": "Contact",
+          "to": "/contact"
+        }
+      ],
+      "switchLabel": "Русский",
+      "aliases": {
+        "": "home",
+        "biografie": "biography",
+        "contact": "contact",
+        "album-2": "album-2",
+        "album-3": "album-3",
+        "album-4": "album-4",
+        "album-5": "album-5"
+      }
+    },
+    "ru": {
+      "code": "ru",
+      "language": "ru-RU",
+      "label": "Русский",
+      "shortLabel": "RU",
+      "basePath": "/ru",
+      "homeTitle": "Musin Igor Nikolaevich - Картины, рисунки и произведения искусства",
+      "homeDescription": "Биография и работы Игоря Мусина из Украины, живущего в Брюгге, Бельгия.",
+      "introHtml": "<p>Добро пожаловать на сайт Мусина Игоря Николаевича.</p>",
+      "navigation": [
+        {
+          "label": "Биография",
+          "to": "/ru/biografiya"
+        },
+        {
+          "label": "Альбомы",
+          "children": [
+            {
+              "label": "Альбом 5",
+              "to": "/ru/albom-5"
+            },
+            {
+              "label": "Альбом 4",
+              "to": "/ru/albom-4"
+            },
+            {
+              "label": "Альбом 3",
+              "to": "/ru/albom-3"
+            },
+            {
+              "label": "Альбом 2",
+              "to": "/ru/albom-2"
+            }
+          ]
+        },
+        {
+          "label": "Контакт",
+          "to": "/ru/kontakt"
+        }
+      ],
+      "switchLabel": "Nederlands",
+      "aliases": {
+        "": "home",
+        "biografiya": "biography",
+        "биография": "biography",
+        "kontakt": "contact",
+        "контакт": "contact",
+        "albom-2": "album-2",
+        "albom-3": "album-3",
+        "albom-4": "album-4",
+        "albom-5": "album-5",
+        "альбом-2": "album-2",
+        "альбом-3": "album-3",
+        "альбом-4": "album-4",
+        "альбом-5": "album-5"
+      }
+    }
+  },
+  "pages": {
+    "ru:contact": {
+      "key": "contact",
+      "locale": "ru",
+      "title": "Контакт",
+      "description": "Контактная информация по вопросам о работах Игоря Мусина.",
+      "path": "/kontakt",
+      "bodyHtml": [
+        "<p>Игорь его сайт поддерживает внук <a href=\"https://atlesque.dev/\">Александр</a>.</p>",
+        "<p>По всем вопросам о Игоре и его работе отправьте электронное письмо по адресу: <a href=\"mailto:alexander@atlesque.media\">alexander@atlesque.media</a></p>"
+      ]
+    },
+    "nl-BE:contact": {
+      "key": "contact",
+      "locale": "nl-BE",
+      "title": "Contact",
+      "description": "Contactinformatie voor vragen over het werk van Igor Musin.",
+      "path": "/contact",
+      "bodyHtml": [
+        "<p>Igor zijn website wordt onderhouden door kleinzoon <a href=\"https://atlesque.dev/\">Alexander</a>.</p>",
+        "<p>Voor alle vragen rond Igor en zijn werk, stuur een e-mail naar: <a href=\"mailto:alexander@atlesque.media\">alexander@atlesque.media</a></p>"
+      ]
+    },
+    "ru:biography": {
+      "key": "biography",
+      "locale": "ru",
+      "title": "Биография",
+      "description": "Биография Игоря Мусина.",
+      "path": "/biografiya",
+      "bodyHtml": [
+        "<p>Мусин Игорь Николаевич родился 3 апреля 1936 года в семье учителей. Его отец Слободенюк Николай Ильич преподавал физику и математику, а мать – Мусина Маргарита Ивановна была учителем русского языка.</p>",
+        "<p>Игорь рано научился читать и писать и с детства очень любил рисовать. Но стать профессиональным художником ему помешала война. В войну он потерял своих родителей и попал в детский дом.</p>",
+        "<p>Игорь получил образование инженера угольных шахт. Проработал более 35 лет на угольных шахтах Донбасса. Обязательную военную службу четыре года проходил на флоте на Тихом океане. Был рулевым на первом атомном корабле Тихоокеанского флота. Любовь ко флоту сохраняет всю свою жизнь. С 1960 года проживал в Донецке.</p>",
+        "<p>Более 50 лет его жена Галина была ему верным помощником во всех его делах. Они воспитали дочь Светлану и сына Александра. У них трое внуков и одна правнучка.</p>",
+        "<p>С августа 2014 Игорь проживает у дочери в Бельгии. Увлекается шахматами. Является членом нескольких шахматных клубов и принимает участие в различных шахматных чемпионатах. Пишет стихи и прозу. Издает свои книги.</p>"
+      ]
+    },
+    "nl-BE:biography": {
+      "key": "biography",
+      "locale": "nl-BE",
+      "title": "Biografie",
+      "description": "Biografie van Igor Musin.",
+      "path": "/biografie",
+      "bodyHtml": [
+        "<p>Musin Igor Nikolaevich werd geboren op 3 april 1936 in een familie van leraren. Zijn vader Nikolai Slobodenyuk doceerde natuurkunde en wiskunde, en zijn moeder, Musina Margarita Ivanovna, was een leraar in de Russische taal.</p>",
+        "<p>Igor leerde vroeg lezen en schrijven, en sinds zijn jeugd hield hij erg van tekenen. Maar om een ​​professionele kunstenaar te worden, werd hij door oorlog verhinderd. Tijdens de oorlog verloor hij zijn ouders en kwam hij terecht in een weeshuis.</p>",
+        "<p>Igor ontving de opleiding van een mijningenieur. Hij werkte meer dan 35 jaar in de kolenmijnen van Donbass. Hij hield zijn verplichte militaire dienst voor vier jaar bij de Pacifische Vloot. Daar was hij was roerganger op het eerste atoomschip. De liefde voor de vloot behoudt hij zijn hele leven. In 1960 verhuisde hij naar Donetsk.</p>",
+        "<p>Al meer dan 50 jaar was zijn vrouw Galina zijn trouwe assistent in al zijn zaken. Ze brachten een dochter Svetlana en zoon Alexander groot. Ze hebben drie kleinkinderen en een achterkleindochter.</p>",
+        "<p>Sinds augustus 2014 woont hij samen met zijn dochter in België. Hij is dol op schaken. Hij is lid van verschillende schaakclubs en neemt deel aan diverse schaakkampioenschappen. Hij schrijft poëzie en proza, en publiceert zijn eigen boeken.</p>"
+      ]
+    },
+    "nl-BE:home": {
+      "key": "home",
+      "locale": "nl-BE",
+      "title": "Musin Igor Nikolaevich - Schilderijen, Tekeningen en Kunstwerken",
+      "description": "Biografie en werk van Igor Musin uit Oekraïne, woonachtig in Brugge, België.",
+      "path": "/",
+      "introHtml": "<p>Welkom op de site van Musin Igor Nikolaevich.</p>",
+      "albumKeys": [
+        "album-5",
+        "album-4",
+        "album-3",
+        "album-2"
+      ]
+    },
+    "ru:home": {
+      "key": "home",
+      "locale": "ru",
+      "title": "Musin Igor Nikolaevich - Картины, рисунки и произведения искусства",
+      "description": "Биография и работы Игоря Мусина из Украины, живущего в Брюгге, Бельгия.",
+      "path": "/",
+      "introHtml": "<p>Добро пожаловать на сайт Мусина Игоря Николаевича.</p>",
+      "albumKeys": [
+        "album-5",
+        "album-4",
+        "album-3",
+        "album-2"
+      ]
+    }
+  },
+  "albums": {
+    "ru:album-5": {
+      "key": "album-5",
+      "locale": "ru",
+      "title": "Альбом 5",
+      "description": "Альбом 5. Галерея работ Игоря Мусина.",
+      "path": "/albom-5",
+      "date": "2018-07-31T18:54:27",
+      "cover": "/images/originals/2018-07-25-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2018-07-25-0001-web.jpg",
+          "full": "/images/originals/2018-07-25-0001-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0002-web.jpg",
+          "full": "/images/originals/2018-07-25-0002-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0003-web.jpg",
+          "full": "/images/originals/2018-07-25-0003-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0004-web.jpg",
+          "full": "/images/originals/2018-07-25-0004-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0005-web.jpg",
+          "full": "/images/originals/2018-07-25-0005-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0006-web.jpg",
+          "full": "/images/originals/2018-07-25-0006-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0007-web.jpg",
+          "full": "/images/originals/2018-07-25-0007-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0008-web.jpg",
+          "full": "/images/originals/2018-07-25-0008-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0009-web.jpg",
+          "full": "/images/originals/2018-07-25-0009-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0010-web.jpg",
+          "full": "/images/originals/2018-07-25-0010-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0011-web.jpg",
+          "full": "/images/originals/2018-07-25-0011-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0012-web.jpg",
+          "full": "/images/originals/2018-07-25-0012-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0013-web.jpg",
+          "full": "/images/originals/2018-07-25-0013-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0014-web.jpg",
+          "full": "/images/originals/2018-07-25-0014-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0015-web.jpg",
+          "full": "/images/originals/2018-07-25-0015-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0016-web.jpg",
+          "full": "/images/originals/2018-07-25-0016-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0017-web.jpg",
+          "full": "/images/originals/2018-07-25-0017-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0018-web.jpg",
+          "full": "/images/originals/2018-07-25-0018-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0019-web.jpg",
+          "full": "/images/originals/2018-07-25-0019-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0020-web.jpg",
+          "full": "/images/originals/2018-07-25-0020-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0021-web.jpg",
+          "full": "/images/originals/2018-07-25-0021-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0022-web.jpg",
+          "full": "/images/originals/2018-07-25-0022-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0023-web.jpg",
+          "full": "/images/originals/2018-07-25-0023-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0024-web.jpg",
+          "full": "/images/originals/2018-07-25-0024-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0025-web.jpg",
+          "full": "/images/originals/2018-07-25-0025-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0026-web.jpg",
+          "full": "/images/originals/2018-07-25-0026-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0027-web.jpg",
+          "full": "/images/originals/2018-07-25-0027-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0028-web.jpg",
+          "full": "/images/originals/2018-07-25-0028-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0029-web.jpg",
+          "full": "/images/originals/2018-07-25-0029-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0030-web.jpg",
+          "full": "/images/originals/2018-07-25-0030-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0031-web.jpg",
+          "full": "/images/originals/2018-07-25-0031-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0032-web.jpg",
+          "full": "/images/originals/2018-07-25-0032-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0033-web.jpg",
+          "full": "/images/originals/2018-07-25-0033-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0034-web.jpg",
+          "full": "/images/originals/2018-07-25-0034-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0035-web.jpg",
+          "full": "/images/originals/2018-07-25-0035-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0036-web.jpg",
+          "full": "/images/originals/2018-07-25-0036-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0037-web.jpg",
+          "full": "/images/originals/2018-07-25-0037-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0038-web.jpg",
+          "full": "/images/originals/2018-07-25-0038-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0039-web.jpg",
+          "full": "/images/originals/2018-07-25-0039-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0040-web.jpg",
+          "full": "/images/originals/2018-07-25-0040-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0041-web.jpg",
+          "full": "/images/originals/2018-07-25-0041-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0042-web.jpg",
+          "full": "/images/originals/2018-07-25-0042-web.jpg",
+          "alt": "Альбом 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0043-web.jpg",
+          "full": "/images/originals/2018-07-25-0043-web.jpg",
+          "alt": "Альбом 5 artwork"
+        }
+      ]
+    },
+    "nl-BE:album-5": {
+      "key": "album-5",
+      "locale": "nl-BE",
+      "title": "Album 5",
+      "description": "Album 5. Galerij met werk van Igor Musin.",
+      "path": "/album-5",
+      "date": "2018-07-31T17:20:50",
+      "cover": "/images/originals/2018-07-25-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2018-07-25-0001-web.jpg",
+          "full": "/images/originals/2018-07-25-0001-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0002-web.jpg",
+          "full": "/images/originals/2018-07-25-0002-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0003-web-1.jpg",
+          "full": "/images/originals/2018-07-25-0003-web-1.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0004-web.jpg",
+          "full": "/images/originals/2018-07-25-0004-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0005-web.jpg",
+          "full": "/images/originals/2018-07-25-0005-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0006-web.jpg",
+          "full": "/images/originals/2018-07-25-0006-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0007-web.jpg",
+          "full": "/images/originals/2018-07-25-0007-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0008-web.jpg",
+          "full": "/images/originals/2018-07-25-0008-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0009-web.jpg",
+          "full": "/images/originals/2018-07-25-0009-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0010-web.jpg",
+          "full": "/images/originals/2018-07-25-0010-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0011-web.jpg",
+          "full": "/images/originals/2018-07-25-0011-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0012-web.jpg",
+          "full": "/images/originals/2018-07-25-0012-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0013-web.jpg",
+          "full": "/images/originals/2018-07-25-0013-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0014-web.jpg",
+          "full": "/images/originals/2018-07-25-0014-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0015-web.jpg",
+          "full": "/images/originals/2018-07-25-0015-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0016-web.jpg",
+          "full": "/images/originals/2018-07-25-0016-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0017-web.jpg",
+          "full": "/images/originals/2018-07-25-0017-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0018-web.jpg",
+          "full": "/images/originals/2018-07-25-0018-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0019-web.jpg",
+          "full": "/images/originals/2018-07-25-0019-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0020-web.jpg",
+          "full": "/images/originals/2018-07-25-0020-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0021-web.jpg",
+          "full": "/images/originals/2018-07-25-0021-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0022-web.jpg",
+          "full": "/images/originals/2018-07-25-0022-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0023-web.jpg",
+          "full": "/images/originals/2018-07-25-0023-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0024-web.jpg",
+          "full": "/images/originals/2018-07-25-0024-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0025-web.jpg",
+          "full": "/images/originals/2018-07-25-0025-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0026-web.jpg",
+          "full": "/images/originals/2018-07-25-0026-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0027-web.jpg",
+          "full": "/images/originals/2018-07-25-0027-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0028-web.jpg",
+          "full": "/images/originals/2018-07-25-0028-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0029-web.jpg",
+          "full": "/images/originals/2018-07-25-0029-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0030-web.jpg",
+          "full": "/images/originals/2018-07-25-0030-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0031-web.jpg",
+          "full": "/images/originals/2018-07-25-0031-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0032-web.jpg",
+          "full": "/images/originals/2018-07-25-0032-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0033-web.jpg",
+          "full": "/images/originals/2018-07-25-0033-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0034-web.jpg",
+          "full": "/images/originals/2018-07-25-0034-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0035-web.jpg",
+          "full": "/images/originals/2018-07-25-0035-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0036-web.jpg",
+          "full": "/images/originals/2018-07-25-0036-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0037-web.jpg",
+          "full": "/images/originals/2018-07-25-0037-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0038-web.jpg",
+          "full": "/images/originals/2018-07-25-0038-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0039-web.jpg",
+          "full": "/images/originals/2018-07-25-0039-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0040-web.jpg",
+          "full": "/images/originals/2018-07-25-0040-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0041-web.jpg",
+          "full": "/images/originals/2018-07-25-0041-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0042-web.jpg",
+          "full": "/images/originals/2018-07-25-0042-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0043-web.jpg",
+          "full": "/images/originals/2018-07-25-0043-web.jpg",
+          "alt": "Album 5 artwork"
+        },
+        {
+          "src": "/images/originals/2018-07-25-0044-web-1.jpg",
+          "full": "/images/originals/2018-07-25-0044-web-1.jpg",
+          "alt": "Album 5 artwork"
+        }
+      ]
+    },
+    "nl-BE:album-4": {
+      "key": "album-4",
+      "locale": "nl-BE",
+      "title": "Album 4",
+      "description": "Album 4. Galerij met werk van Igor Musin.",
+      "path": "/album-4",
+      "date": "2018-04-02T17:21:35",
+      "cover": "/images/originals/2018-03-09-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2018-03-09-0001-web.jpg",
+          "full": "/images/originals/2018-03-09-0001-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0002-web-e1522684407599.jpg",
+          "full": "/images/originals/2018-03-09-0002-web-e1522684407599.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0003-web.jpg",
+          "full": "/images/originals/2018-03-09-0003-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0004-web.jpg",
+          "full": "/images/originals/2018-03-09-0004-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0005-web.jpg",
+          "full": "/images/originals/2018-03-09-0005-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0006-web.jpg",
+          "full": "/images/originals/2018-03-09-0006-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0007-web.jpg",
+          "full": "/images/originals/2018-03-09-0007-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0008-web.jpg",
+          "full": "/images/originals/2018-03-09-0008-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0009-web.jpg",
+          "full": "/images/originals/2018-03-09-0009-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0010-web.jpg",
+          "full": "/images/originals/2018-03-09-0010-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0011-web.jpg",
+          "full": "/images/originals/2018-03-09-0011-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0012-web.jpg",
+          "full": "/images/originals/2018-03-09-0012-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0013-web.jpg",
+          "full": "/images/originals/2018-03-09-0013-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0014-web.jpg",
+          "full": "/images/originals/2018-03-09-0014-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0015-web.jpg",
+          "full": "/images/originals/2018-03-09-0015-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0016-web.jpg",
+          "full": "/images/originals/2018-03-09-0016-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0017-web.jpg",
+          "full": "/images/originals/2018-03-09-0017-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0018-web.jpg",
+          "full": "/images/originals/2018-03-09-0018-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0019-web.jpg",
+          "full": "/images/originals/2018-03-09-0019-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0020-web.jpg",
+          "full": "/images/originals/2018-03-09-0020-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0021-web.jpg",
+          "full": "/images/originals/2018-03-09-0021-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0022-web.jpg",
+          "full": "/images/originals/2018-03-09-0022-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0023-web.jpg",
+          "full": "/images/originals/2018-03-09-0023-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0024-web.jpg",
+          "full": "/images/originals/2018-03-09-0024-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0025-web.jpg",
+          "full": "/images/originals/2018-03-09-0025-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0026-web.jpg",
+          "full": "/images/originals/2018-03-09-0026-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0027-web.jpg",
+          "full": "/images/originals/2018-03-09-0027-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0028-web.jpg",
+          "full": "/images/originals/2018-03-09-0028-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0029-web.jpg",
+          "full": "/images/originals/2018-03-09-0029-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0030-web.jpg",
+          "full": "/images/originals/2018-03-09-0030-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0031-web.jpg",
+          "full": "/images/originals/2018-03-09-0031-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0032-web.jpg",
+          "full": "/images/originals/2018-03-09-0032-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0033-web.jpg",
+          "full": "/images/originals/2018-03-09-0033-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0034-web.jpg",
+          "full": "/images/originals/2018-03-09-0034-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0035-web.jpg",
+          "full": "/images/originals/2018-03-09-0035-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0036-web.jpg",
+          "full": "/images/originals/2018-03-09-0036-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0037-web.jpg",
+          "full": "/images/originals/2018-03-09-0037-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0038-web.jpg",
+          "full": "/images/originals/2018-03-09-0038-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0039-web.jpg",
+          "full": "/images/originals/2018-03-09-0039-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0040-web.jpg",
+          "full": "/images/originals/2018-03-09-0040-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0041-web.jpg",
+          "full": "/images/originals/2018-03-09-0041-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0042-web.jpg",
+          "full": "/images/originals/2018-03-09-0042-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0043-web.jpg",
+          "full": "/images/originals/2018-03-09-0043-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0044-web.jpg",
+          "full": "/images/originals/2018-03-09-0044-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0045-web.jpg",
+          "full": "/images/originals/2018-03-09-0045-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0046-web.jpg",
+          "full": "/images/originals/2018-03-09-0046-web.jpg",
+          "alt": "Album 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-04-01-0001-web.jpg",
+          "full": "/images/originals/2018-04-01-0001-web.jpg",
+          "alt": "Album 4 artwork"
+        }
+      ]
+    },
+    "ru:album-4": {
+      "key": "album-4",
+      "locale": "ru",
+      "title": "Альбом 4",
+      "description": "Альбом 4. Галерея работ Игоря Мусина.",
+      "path": "/albom-4",
+      "date": "2018-04-02T17:27:16",
+      "cover": "/images/originals/2018-03-09-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2018-03-09-0001-web.jpg",
+          "full": "/images/originals/2018-03-09-0001-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0002-web-e1522684407599.jpg",
+          "full": "/images/originals/2018-03-09-0002-web-e1522684407599.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0003-web.jpg",
+          "full": "/images/originals/2018-03-09-0003-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0004-web.jpg",
+          "full": "/images/originals/2018-03-09-0004-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0005-web.jpg",
+          "full": "/images/originals/2018-03-09-0005-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0006-web.jpg",
+          "full": "/images/originals/2018-03-09-0006-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0007-web.jpg",
+          "full": "/images/originals/2018-03-09-0007-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0008-web.jpg",
+          "full": "/images/originals/2018-03-09-0008-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0009-web.jpg",
+          "full": "/images/originals/2018-03-09-0009-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0010-web.jpg",
+          "full": "/images/originals/2018-03-09-0010-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0011-web.jpg",
+          "full": "/images/originals/2018-03-09-0011-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0012-web.jpg",
+          "full": "/images/originals/2018-03-09-0012-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0013-web.jpg",
+          "full": "/images/originals/2018-03-09-0013-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0014-web.jpg",
+          "full": "/images/originals/2018-03-09-0014-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0015-web.jpg",
+          "full": "/images/originals/2018-03-09-0015-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0016-web.jpg",
+          "full": "/images/originals/2018-03-09-0016-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0017-web.jpg",
+          "full": "/images/originals/2018-03-09-0017-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0018-web.jpg",
+          "full": "/images/originals/2018-03-09-0018-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0019-web.jpg",
+          "full": "/images/originals/2018-03-09-0019-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0020-web.jpg",
+          "full": "/images/originals/2018-03-09-0020-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0021-web.jpg",
+          "full": "/images/originals/2018-03-09-0021-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0022-web.jpg",
+          "full": "/images/originals/2018-03-09-0022-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0023-web.jpg",
+          "full": "/images/originals/2018-03-09-0023-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0024-web.jpg",
+          "full": "/images/originals/2018-03-09-0024-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0025-web.jpg",
+          "full": "/images/originals/2018-03-09-0025-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0026-web.jpg",
+          "full": "/images/originals/2018-03-09-0026-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0027-web.jpg",
+          "full": "/images/originals/2018-03-09-0027-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0028-web.jpg",
+          "full": "/images/originals/2018-03-09-0028-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0029-web.jpg",
+          "full": "/images/originals/2018-03-09-0029-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0030-web.jpg",
+          "full": "/images/originals/2018-03-09-0030-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0031-web.jpg",
+          "full": "/images/originals/2018-03-09-0031-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0032-web.jpg",
+          "full": "/images/originals/2018-03-09-0032-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0033-web.jpg",
+          "full": "/images/originals/2018-03-09-0033-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0034-web.jpg",
+          "full": "/images/originals/2018-03-09-0034-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0035-web.jpg",
+          "full": "/images/originals/2018-03-09-0035-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0036-web.jpg",
+          "full": "/images/originals/2018-03-09-0036-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0037-web.jpg",
+          "full": "/images/originals/2018-03-09-0037-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0038-web.jpg",
+          "full": "/images/originals/2018-03-09-0038-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0039-web.jpg",
+          "full": "/images/originals/2018-03-09-0039-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0040-web.jpg",
+          "full": "/images/originals/2018-03-09-0040-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0041-web.jpg",
+          "full": "/images/originals/2018-03-09-0041-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0042-web.jpg",
+          "full": "/images/originals/2018-03-09-0042-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0043-web.jpg",
+          "full": "/images/originals/2018-03-09-0043-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0044-web.jpg",
+          "full": "/images/originals/2018-03-09-0044-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0045-web.jpg",
+          "full": "/images/originals/2018-03-09-0045-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-03-09-0046-web.jpg",
+          "full": "/images/originals/2018-03-09-0046-web.jpg",
+          "alt": "Альбом 4 artwork"
+        },
+        {
+          "src": "/images/originals/2018-04-01-0001-web.jpg",
+          "full": "/images/originals/2018-04-01-0001-web.jpg",
+          "alt": "Альбом 4 artwork"
+        }
+      ]
+    },
+    "nl-BE:album-3": {
+      "key": "album-3",
+      "locale": "nl-BE",
+      "title": "Album 3",
+      "description": "Album 3. Galerij met werk van Igor Musin.",
+      "path": "/album-3",
+      "date": "2018-04-02T18:23:14",
+      "cover": "/images/originals/2017-07-25-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2017-07-25-0001-web.jpg",
+          "full": "/images/originals/2017-07-25-0001-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0002-web.jpg",
+          "full": "/images/originals/2017-07-25-0002-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0003-web.jpg",
+          "full": "/images/originals/2017-07-25-0003-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0004-web.jpg",
+          "full": "/images/originals/2017-07-25-0004-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0005-web.jpg",
+          "full": "/images/originals/2017-07-25-0005-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0006-web.jpg",
+          "full": "/images/originals/2017-07-25-0006-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0007-web.jpg",
+          "full": "/images/originals/2017-07-25-0007-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0008-web.jpg",
+          "full": "/images/originals/2017-07-25-0008-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0009-web.jpg",
+          "full": "/images/originals/2017-07-25-0009-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0010-web.jpg",
+          "full": "/images/originals/2017-07-25-0010-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0011-web.jpg",
+          "full": "/images/originals/2017-07-25-0011-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0012-web.jpg",
+          "full": "/images/originals/2017-07-25-0012-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0013-web.jpg",
+          "full": "/images/originals/2017-07-25-0013-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-1-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-1-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-2-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-2-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-3-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-3-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0015-web.jpg",
+          "full": "/images/originals/2017-07-25-0015-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0016-web.jpg",
+          "full": "/images/originals/2017-07-25-0016-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0017-web.jpg",
+          "full": "/images/originals/2017-07-25-0017-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0018-web.jpg",
+          "full": "/images/originals/2017-07-25-0018-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0019-web.jpg",
+          "full": "/images/originals/2017-07-25-0019-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0020-web.jpg",
+          "full": "/images/originals/2017-07-25-0020-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0021-web.jpg",
+          "full": "/images/originals/2017-07-25-0021-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-1-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-1-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-2-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-2-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0023-web.jpg",
+          "full": "/images/originals/2017-07-25-0023-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0024-web.jpg",
+          "full": "/images/originals/2017-07-25-0024-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0025-web.jpg",
+          "full": "/images/originals/2017-07-25-0025-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0026-web.jpg",
+          "full": "/images/originals/2017-07-25-0026-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0027-web.jpg",
+          "full": "/images/originals/2017-07-25-0027-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0028-web.jpg",
+          "full": "/images/originals/2017-07-25-0028-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0029-web.jpg",
+          "full": "/images/originals/2017-07-25-0029-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0030-web.jpg",
+          "full": "/images/originals/2017-07-25-0030-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0031-web.jpg",
+          "full": "/images/originals/2017-07-25-0031-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0032-web.jpg",
+          "full": "/images/originals/2017-07-25-0032-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0033-web.jpg",
+          "full": "/images/originals/2017-07-25-0033-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0034-web.jpg",
+          "full": "/images/originals/2017-07-25-0034-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0035-web.jpg",
+          "full": "/images/originals/2017-07-25-0035-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0036-web.jpg",
+          "full": "/images/originals/2017-07-25-0036-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0037-web.jpg",
+          "full": "/images/originals/2017-07-25-0037-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0038-web.jpg",
+          "full": "/images/originals/2017-07-25-0038-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0039-web.jpg",
+          "full": "/images/originals/2017-07-25-0039-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0040-web.jpg",
+          "full": "/images/originals/2017-07-25-0040-web.jpg",
+          "alt": "Album 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0041-web.jpg",
+          "full": "/images/originals/2017-07-25-0041-web.jpg",
+          "alt": "Album 3 artwork"
+        }
+      ]
+    },
+    "ru:album-3": {
+      "key": "album-3",
+      "locale": "ru",
+      "title": "Альбом 3",
+      "description": "Альбом 3. Галерея работ Игоря Мусина.",
+      "path": "/albom-3",
+      "date": "2018-04-02T19:05:08",
+      "cover": "/images/originals/2017-07-25-0001-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2017-07-25-0001-web.jpg",
+          "full": "/images/originals/2017-07-25-0001-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0002-web.jpg",
+          "full": "/images/originals/2017-07-25-0002-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0003-web.jpg",
+          "full": "/images/originals/2017-07-25-0003-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0004-web.jpg",
+          "full": "/images/originals/2017-07-25-0004-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0005-web.jpg",
+          "full": "/images/originals/2017-07-25-0005-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0006-web.jpg",
+          "full": "/images/originals/2017-07-25-0006-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0007-web.jpg",
+          "full": "/images/originals/2017-07-25-0007-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0008-web.jpg",
+          "full": "/images/originals/2017-07-25-0008-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0009-web.jpg",
+          "full": "/images/originals/2017-07-25-0009-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0010-web.jpg",
+          "full": "/images/originals/2017-07-25-0010-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0011-web.jpg",
+          "full": "/images/originals/2017-07-25-0011-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0012-web.jpg",
+          "full": "/images/originals/2017-07-25-0012-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0013-web.jpg",
+          "full": "/images/originals/2017-07-25-0013-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-1-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-1-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-2-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-2-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0014-3-web.jpg",
+          "full": "/images/originals/2017-07-25-0014-3-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0015-web.jpg",
+          "full": "/images/originals/2017-07-25-0015-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0016-web.jpg",
+          "full": "/images/originals/2017-07-25-0016-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0017-web.jpg",
+          "full": "/images/originals/2017-07-25-0017-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0018-web.jpg",
+          "full": "/images/originals/2017-07-25-0018-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0019-web.jpg",
+          "full": "/images/originals/2017-07-25-0019-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0020-web.jpg",
+          "full": "/images/originals/2017-07-25-0020-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0021-web.jpg",
+          "full": "/images/originals/2017-07-25-0021-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-1-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-1-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0022-2-web.jpg",
+          "full": "/images/originals/2017-07-25-0022-2-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0023-web.jpg",
+          "full": "/images/originals/2017-07-25-0023-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0024-web.jpg",
+          "full": "/images/originals/2017-07-25-0024-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0025-web.jpg",
+          "full": "/images/originals/2017-07-25-0025-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0026-web.jpg",
+          "full": "/images/originals/2017-07-25-0026-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0027-web.jpg",
+          "full": "/images/originals/2017-07-25-0027-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0028-web.jpg",
+          "full": "/images/originals/2017-07-25-0028-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0029-web.jpg",
+          "full": "/images/originals/2017-07-25-0029-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0030-web.jpg",
+          "full": "/images/originals/2017-07-25-0030-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0031-web.jpg",
+          "full": "/images/originals/2017-07-25-0031-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0032-web.jpg",
+          "full": "/images/originals/2017-07-25-0032-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0033-web.jpg",
+          "full": "/images/originals/2017-07-25-0033-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0034-web.jpg",
+          "full": "/images/originals/2017-07-25-0034-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0035-web.jpg",
+          "full": "/images/originals/2017-07-25-0035-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0036-web.jpg",
+          "full": "/images/originals/2017-07-25-0036-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0037-web.jpg",
+          "full": "/images/originals/2017-07-25-0037-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0038-web.jpg",
+          "full": "/images/originals/2017-07-25-0038-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0039-web.jpg",
+          "full": "/images/originals/2017-07-25-0039-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0040-web.jpg",
+          "full": "/images/originals/2017-07-25-0040-web.jpg",
+          "alt": "Альбом 3 artwork"
+        },
+        {
+          "src": "/images/originals/2017-07-25-0041-web.jpg",
+          "full": "/images/originals/2017-07-25-0041-web.jpg",
+          "alt": "Альбом 3 artwork"
+        }
+      ]
+    },
+    "nl-BE:album-2": {
+      "key": "album-2",
+      "locale": "nl-BE",
+      "title": "Album 2",
+      "description": "Album 2. Galerij met werk van Igor Musin.",
+      "path": "/album-2",
+      "date": "2018-04-02T19:14:18",
+      "cover": "/images/originals/2016-12-15-0001-web-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2016-12-15-0001-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0001-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0002-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0002-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0003-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0003-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0004-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0004-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0005-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0005-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0006-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0006-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0007-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0007-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0008-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0008-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0009-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0009-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0010-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0010-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0011-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0011-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0012-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0012-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0013-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0013-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0014-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0014-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0015-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0015-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0016-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0016-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0018-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0018-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0019-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0019-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0020-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0020-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0021-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0021-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0022-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0022-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0023-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0023-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0024-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0024-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0025-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0025-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0026-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0026-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0027-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0027-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0028-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0028-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0029-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0029-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0030-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0030-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0031-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0031-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0032-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0032-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0033-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0033-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0034-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0034-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0035-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0035-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0036-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0036-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0037-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0037-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0038-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0038-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0039-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0039-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0040-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0040-web-web.jpg",
+          "alt": "Album 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0041-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0041-web-web.jpg",
+          "alt": "Album 2 artwork"
+        }
+      ]
+    },
+    "ru:album-2": {
+      "key": "album-2",
+      "locale": "ru",
+      "title": "Альбом 2",
+      "description": "Альбом 2. Галерея работ Игоря Мусина.",
+      "path": "/albom-2",
+      "date": "2018-04-02T19:14:42",
+      "cover": "/images/originals/2016-12-15-0001-web-web.jpg",
+      "images": [
+        {
+          "src": "/images/originals/2016-12-15-0001-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0001-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0002-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0002-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0003-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0003-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0004-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0004-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0005-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0005-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0006-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0006-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0007-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0007-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0008-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0008-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0009-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0009-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0010-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0010-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0011-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0011-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0012-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0012-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0013-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0013-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0014-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0014-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0015-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0015-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0016-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0016-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0018-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0018-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0019-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0019-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0020-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0020-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0021-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0021-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0022-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0022-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0023-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0023-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0024-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0024-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0025-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0025-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0026-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0026-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0027-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0027-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0028-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0028-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0029-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0029-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0030-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0030-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0031-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0031-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0032-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0032-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0033-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0033-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0034-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0034-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0035-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0035-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0036-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0036-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0037-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0037-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0038-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0038-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0039-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0039-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0040-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0040-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        },
+        {
+          "src": "/images/originals/2016-12-15-0041-web-web.jpg",
+          "full": "/images/originals/2016-12-15-0041-web-web.jpg",
+          "alt": "Альбом 2 artwork"
+        }
+      ]
+    }
+  }
+}
