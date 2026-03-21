@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>IM favicon</title>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="10" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3eee6" />
+      <stop offset="1" stop-color="#d7c6ae" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path d="M16 17h7v30h-7zM26 17h6l7 14 7-14h6v30h-7V30l-6 12h-1l-6-12v17h-6z" fill="#17120d" />
+</svg>
