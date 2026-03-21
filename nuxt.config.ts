@@ -5,6 +5,14 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxt/eslint',
   ],
+  app: {
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
+        { rel: 'alternate icon', href: '/favicon.ico' },
+      ],
+    },
+  },
   css: ['~/assets/css/main.css'],
   runtimeConfig: {
     public: {
