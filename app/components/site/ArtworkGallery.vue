@@ -6,6 +6,7 @@ const props = defineProps<{
   images: GalleryImage[]
 }>()
 
+const galleryRoot = ref<HTMLElement | null>(null)
 const activeIndex = ref<number | null>(null)
 
 const activeImage = computed(() => {
@@ -20,8 +21,26 @@ const openLightbox = (index: number) => {
   activeIndex.value = index
 }
 
-const closeLightbox = () => {
+const closeLightbox = async () => {
+  const indexToRestore = activeIndex.value
   activeIndex.value = null
+
+  if (indexToRestore === null) {
+    return
+  }
+
+  await nextTick()
+
+  requestAnimationFrame(() => {
+    const thumbnail = galleryRoot.value?.querySelector<HTMLButtonElement>(
+      `[data-gallery-index="${indexToRestore}"]`,
+    )
+
+    thumbnail?.scrollIntoView({
+      behavior: 'smooth',
+      block: 'center',
+    })
+  })
 }
 
 const showNext = () => {
@@ -42,13 +61,17 @@ const showPrevious = () => {
 </script>
 
 <template>
-  <section class="gallery-block">
+  <section
+    ref="galleryRoot"
+    class="gallery-block"
+  >
     <div class="gallery-grid">
       <button
         v-for="(image, index) in images"
         :key="`${image.src}-${index}`"
         class="gallery-grid__item"
         type="button"
+        :data-gallery-index="index"
         :aria-label="`Open ${title} image ${index + 1}`"
         @click="openLightbox(index)"
       >
