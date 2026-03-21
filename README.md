@@ -14,7 +14,7 @@ pnpm install
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:3001`:
 
 ```bash
 pnpm dev
@@ -43,4 +43,3 @@ pnpm lint
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
