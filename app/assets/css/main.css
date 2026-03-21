@@ -650,25 +650,11 @@ p {
 
   .site-sidebar {
     position: static;
+    width: 100%;
   }
 
   .site-main-content {
     width: 100%;
-  }
-}
-
-@media (max-width: 760px) {
-  .site-shell {
-    padding: 14px;
-  }
-
-  .site-shell__inner {
-    gap: 18px;
-  }
-
-  .site-sidebar,
-  .content-card {
-    padding: 22px 18px;
   }
 
   .site-sidebar__header {
@@ -703,6 +689,21 @@ p {
   .site-sidebar__widgets {
     gap: 1rem;
     margin-top: 1.4rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .site-shell {
+    padding: 14px;
+  }
+
+  .site-shell__inner {
+    gap: 18px;
+  }
+
+  .site-sidebar,
+  .content-card {
+    padding: 22px 18px;
   }
 
   .content-card__header h1 {
