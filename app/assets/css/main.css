@@ -596,6 +596,7 @@ p {
   gap: 18px;
   padding: 32px;
   background: rgba(20, 16, 12, 0.94);
+  touch-action: pan-y;
 }
 
 .lightbox__figure {

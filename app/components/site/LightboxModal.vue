@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { GalleryImage } from '~/app/types/site'
+import type { GalleryImage } from '../../types/site'
 
 const props = defineProps<{
   image: GalleryImage
@@ -12,6 +12,62 @@ const emit = defineEmits<{
   next: []
   previous: []
 }>()
+
+const swipeStartX = ref<number | null>(null)
+const swipeStartY = ref<number | null>(null)
+
+const resetSwipe = () => {
+  swipeStartX.value = null
+  swipeStartY.value = null
+}
+
+const onTouchStart = (event: TouchEvent) => {
+  if (event.touches.length !== 1) {
+    resetSwipe()
+    return
+  }
+
+  const touch = event.touches.item(0)
+  if (!touch) {
+    resetSwipe()
+    return
+  }
+
+  const { clientX, clientY } = touch
+  swipeStartX.value = clientX
+  swipeStartY.value = clientY
+}
+
+const onTouchEnd = (event: TouchEvent) => {
+  if (swipeStartX.value === null || swipeStartY.value === null) {
+    return
+  }
+
+  const touch = event.changedTouches.item(0)
+  if (!touch) {
+    resetSwipe()
+    return
+  }
+
+  const { clientX, clientY } = touch
+  const deltaX = clientX - swipeStartX.value
+  const deltaY = clientY - swipeStartY.value
+
+  resetSwipe()
+
+  const isHorizontalSwipe = Math.abs(deltaX) > 48 && Math.abs(deltaX) > Math.abs(deltaY) * 1.2
+
+  if (!isHorizontalSwipe) {
+    return
+  }
+
+  if (deltaX < 0) {
+    emit('next')
+    return
+  }
+
+  emit('previous')
+}
 
 const onKeydown = (event: KeyboardEvent) => {
   if (event.key === 'Escape') {
@@ -44,6 +100,9 @@ watchEffect((onCleanup) => {
       aria-modal="true"
       :aria-label="image.alt"
       @click.self="emit('close')"
+      @touchstart="onTouchStart"
+      @touchend="onTouchEnd"
+      @touchcancel="resetSwipe"
     >
       <button
         class="lightbox__close"
