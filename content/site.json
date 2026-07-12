@@ -12,7 +12,7 @@
       "shortLabel": "NL",
       "basePath": "/",
       "homeTitle": "Musin Igor Nikolaevich - Schilderijen, Tekeningen en Kunstwerken",
-      "homeDescription": "Biografie en werk van Igor Musin uit Oekraïne, woonachtig in Brugge, België.",
+      "homeDescription": "Biografie en werk van Igor Musin (1936–2020) uit Oekraïne.",
       "introHtml": "<p>Welkom op de site van Musin Igor Nikolaevich.</p>",
       "navigation": [
         {
@@ -63,7 +63,7 @@
       "shortLabel": "RU",
       "basePath": "/ru",
       "homeTitle": "Musin Igor Nikolaevich - Картины, рисунки и произведения искусства",
-      "homeDescription": "Биография и работы Игоря Мусина из Украины, живущего в Брюгге, Бельгия.",
+      "homeDescription": "Биография и работы Игоря Мусина (1936–2020) из Украины.",
       "introHtml": "<p>Добро пожаловать на сайт Мусина Игоря Николаевича.</p>",
       "navigation": [
         {
@@ -144,11 +144,12 @@
       "description": "Биография Игоря Мусина.",
       "path": "/biografiya",
       "bodyHtml": [
-        "<p>Мусин Игорь Николаевич родился 3 апреля 1936 года в семье учителей. Его отец Слободенюк Николай Ильич преподавал физику и математику, а мать – Мусина Маргарита Ивановна была учителем русского языка.</p>",
+        "<p>Мусин Игорь Николаевич родился 3 апреля 1936 года в городе Ветлуга, СССР, в семье учителей. Его отец Слободенюк Николай Ильич преподавал физику и математику, а мать – Мусина Маргарита Ивановна была учителем русского языка.</p>",
         "<p>Игорь рано научился читать и писать и с детства очень любил рисовать. Но стать профессиональным художником ему помешала война. В войну он потерял своих родителей и попал в детский дом.</p>",
-        "<p>Игорь получил образование инженера угольных шахт. Проработал более 35 лет на угольных шахтах Донбасса. Обязательную военную службу четыре года проходил на флоте на Тихом океане. Был рулевым на первом атомном корабле Тихоокеанского флота. Любовь ко флоту сохраняет всю свою жизнь. С 1960 года проживал в Донецке.</p>",
+        "<p>Игорь получил образование инженера угольных шахт. Проработал более 35 лет на угольных шахтах Донбасса. Обязательную военную службу четыре года проходил на флоте на Тихом океане. Был рулевым на первом атомном корабле Тихоокеанского флота. Любовь ко флоту сохранял всю свою жизнь. С 1960 года проживал в Донецке.</p>",
         "<p>Более 50 лет его жена Галина была ему верным помощником во всех его делах. Они воспитали дочь Светлану и сына Александра. У них трое внуков и одна правнучка.</p>",
-        "<p>С августа 2014 Игорь проживает у дочери в Бельгии. Увлекается шахматами. Является членом нескольких шахматных клубов и принимает участие в различных шахматных чемпионатах. Пишет стихи и прозу. Издает свои книги.</p>"
+        "<p>С августа 2014 года Игорь проживал у дочери в Бельгии. Увлекался шахматами, являлся членом нескольких шахматных клубов и принимал участие в различных шахматных чемпионатах. Писал стихи и прозу, издавал свои книги.</p>",
+        "<p>Игорь Николаевич ушёл из жизни 12 ноября 2020 года в Брюгге, Бельгия.</p>"
       ]
     },
     "nl-BE:biography": {
@@ -158,18 +159,19 @@
       "description": "Biografie van Igor Musin.",
       "path": "/biografie",
       "bodyHtml": [
-        "<p>Musin Igor Nikolaevich werd geboren op 3 april 1936 in een familie van leraren. Zijn vader Nikolai Slobodenyuk doceerde natuurkunde en wiskunde, en zijn moeder, Musina Margarita Ivanovna, was een leraar in de Russische taal.</p>",
+        "<p>Musin Igor Nikolaevich werd geboren op 3 april 1936 in Vetluga, USSR, in een familie van leraren. Zijn vader Nikolai Slobodenyuk doceerde natuurkunde en wiskunde, en zijn moeder, Musina Margarita Ivanovna, was een leraar in de Russische taal.</p>",
         "<p>Igor leerde vroeg lezen en schrijven, en sinds zijn jeugd hield hij erg van tekenen. Maar om een ​​professionele kunstenaar te worden, werd hij door oorlog verhinderd. Tijdens de oorlog verloor hij zijn ouders en kwam hij terecht in een weeshuis.</p>",
-        "<p>Igor ontving de opleiding van een mijningenieur. Hij werkte meer dan 35 jaar in de kolenmijnen van Donbass. Hij hield zijn verplichte militaire dienst voor vier jaar bij de Pacifische Vloot. Daar was hij was roerganger op het eerste atoomschip. De liefde voor de vloot behoudt hij zijn hele leven. In 1960 verhuisde hij naar Donetsk.</p>",
+        "<p>Igor ontving de opleiding van een mijningenieur. Hij werkte meer dan 35 jaar in de kolenmijnen van Donbass. Hij hield zijn verplichte militaire dienst voor vier jaar bij de Pacifische Vloot. Daar was hij was roerganger op het eerste atoomschip. De liefde voor de vloot behield hij zijn hele leven. In 1960 verhuisde hij naar Donetsk.</p>",
         "<p>Al meer dan 50 jaar was zijn vrouw Galina zijn trouwe assistent in al zijn zaken. Ze brachten een dochter Svetlana en zoon Alexander groot. Ze hebben drie kleinkinderen en een achterkleindochter.</p>",
-        "<p>Sinds augustus 2014 woont hij samen met zijn dochter in België. Hij is dol op schaken. Hij is lid van verschillende schaakclubs en neemt deel aan diverse schaakkampioenschappen. Hij schrijft poëzie en proza, en publiceert zijn eigen boeken.</p>"
+        "<p>Sinds augustus 2014 woonde hij samen met zijn dochter in België. Hij was dol op schaken. Hij was lid van verschillende schaakclubs en nam deel aan diverse schaakkampioenschappen. Hij schreef poëzie en proza, en publiceerde zijn eigen boeken.</p>",
+        "<p>Igor overleed op 12 november 2020 in Brugge, België.</p>"
       ]
     },
     "nl-BE:home": {
       "key": "home",
       "locale": "nl-BE",
       "title": "Musin Igor Nikolaevich - Schilderijen, Tekeningen en Kunstwerken",
-      "description": "Biografie en werk van Igor Musin uit Oekraïne, woonachtig in Brugge, België.",
+      "description": "Biografie en werk van Igor Musin (1936–2020) uit Oekraïne.",
       "path": "/",
       "introHtml": "<p>Welkom op de site van Musin Igor Nikolaevich.</p>",
       "albumKeys": [
@@ -183,7 +185,7 @@
       "key": "home",
       "locale": "ru",
       "title": "Musin Igor Nikolaevich - Картины, рисунки и произведения искусства",
-      "description": "Биография и работы Игоря Мусина из Украины, живущего в Брюгге, Бельгия.",
+      "description": "Биография и работы Игоря Мусина (1936–2020) из Украины.",
       "path": "/",
       "introHtml": "<p>Добро пожаловать на сайт Мусина Игоря Николаевича.</p>",
       "albumKeys": [

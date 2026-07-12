@@ -118,7 +118,7 @@ const site = {
       shortLabel: 'RU',
       basePath: '/ru',
       homeTitle: 'Musin Igor Nikolaevich - Картины, рисунки и произведения искусства',
-      homeDescription: 'Биография и работы Игоря Мусина из Украины, живущего в Брюгге, Бельгия.',
+      homeDescription: 'Биография и работы Игоря Мусина (1936–2020) из Украины.',
       introHtml: `<p>${matchIntro(homeRuHtml)}</p>`,
       navigation: [
         { label: 'Биография', to: '/ru/biografiya' },
@@ -167,8 +167,8 @@ for (const page of pages) {
       description:
         key === 'biography'
           ? locale === 'ru'
-            ? 'Биография Игоря Мусина.'
-            : 'Biografie van Igor Musin.'
+            ? 'Биография Игоря Мусина (1936–2020).'
+            : 'Biografie van Igor Musin (1936–2020).'
           : locale === 'ru'
             ? 'Контактная информация по вопросам о работах Игоря Мусина.'
             : 'Contactinformatie voor vragen over het werk van Igor Musin.',
