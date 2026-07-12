@@ -2,7 +2,7 @@
   "name": "igor-musin",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.32.1",
+  "packageManager": "pnpm@11.12.0",
   "scripts": {
     "build": "nuxt generate",
     "build:ssr": "nuxt build",
